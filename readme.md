@@ -99,7 +99,7 @@ The following key packages and their versions were used:
 -   The test metrics reported for both Logistic Regression and ANN models are calculated based on predictions made on the exact same `test_ids`. The saved prediction files (`test_predictions.csv` and `predictions/ann_test_predictions.csv`) contain these predictions for the corresponding `record_id`s, ensuring consistency.
 
 ## Accessible Video URL and Duration
--  not  enough time 
+-  https://youtu.be/MjHV8OyyzzU?si=fToR6CEbkrfmkPXQ 
 
 ## References
 -   joblib 
